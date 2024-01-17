@@ -1,4 +1,4 @@
-# object-oriented-programming-I-Java
+# Object-Oriented Programming I Java
 Name: Ihana Fahmy
 Coding assignments for object-oriented programming I
 Coding language: Java
